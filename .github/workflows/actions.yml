@@ -1,4 +1,4 @@
-name: Deploy Spring boot to Amazon EC2
+name: Test
 
 on:
   push:
